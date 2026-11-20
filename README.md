@@ -122,3 +122,5 @@ No results are filled in. Record your own results in the tracker.
 - Put every setting back as it was at the end of each use case. Each page explains how.
 
 This is an independent, personal-project guide. It is not Microsoft intellectual property, it is not official Microsoft documentation, and it does not claim Microsoft endorsement. See the disclaimer at the top of this page. Check the linked Microsoft documentation for current licensing and preview status before you start.
+
+**License:** the original content of this repository is released under the [MIT License](LICENSE). It is shared for education and awareness of the products it describes, not for sale.
