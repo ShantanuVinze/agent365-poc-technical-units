@@ -1,5 +1,7 @@
 # Agent 365 Value Demonstration Guide
 
+> **Disclaimer.** This guide is a **personal project** by its author. It was created in a personal capacity, is **not Microsoft intellectual property**, and is **not an official Microsoft publication**. It is not reviewed, endorsed or supported by Microsoft, and it does not represent Microsoft's views, positions or product roadmap. The views and observations here are the author's own. Microsoft product names are used only to describe the products. All organizations, people, documents and values in the guide are fictional. The guide is provided "as is", without warranty, and you use it at your own risk. Always check the linked Microsoft documentation for current licensing, behavior and preview status.
+
 This guide shows, with evidence, what **Microsoft Agent 365** adds to the governance and protection of AI agents. It builds on the identity, security and compliance tools an organization already has, such as Microsoft 365 E5.
 
 It follows **Contoso**, a fictional organization, as its IT team builds test agents, turns on controls and checks the results.
@@ -119,4 +121,4 @@ No results are filled in. Record your own results in the tracker.
 - Store evidence only in the evidence folder.
 - Put every setting back as it was at the end of each use case. Each page explains how.
 
-This is an independent guide. It is not official Microsoft documentation and does not claim Microsoft endorsement. Check the linked Microsoft documentation for current licensing and preview status before you start.
+This is an independent, personal-project guide. It is not Microsoft intellectual property, it is not official Microsoft documentation, and it does not claim Microsoft endorsement. See the disclaimer at the top of this page. Check the linked Microsoft documentation for current licensing and preview status before you start.
