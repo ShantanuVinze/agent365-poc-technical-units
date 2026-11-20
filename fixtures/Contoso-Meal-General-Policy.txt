@@ -1,0 +1,9 @@
+Contoso - Fictional business meal policy
+Document name: Contoso-Meal-General-Policy.docx
+Document marker: WS03-GENERAL-104
+Routine meal allowance: 80 fictional credits.
+Manager approval is required above 40 fictional credits.
+A receipt is required for every claim.
+
+This is synthetic evaluation content, not an actual organization policy.
+It contains no personal information, credentials or customer records.

@@ -1,0 +1,15 @@
+# Local working records are not public guide content.
+.private/
+evidence/
+*.log
+.env
+.env.*
+*.pem
+*.pfx
+*.key
+node_modules/
+__pycache__/
+
+# Private helper scripts with real lab IDs, and reference copies of rewritten files.
+Contoso-agent-ca-demo/
+*-old.md

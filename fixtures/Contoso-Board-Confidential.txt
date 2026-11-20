@@ -1,0 +1,10 @@
+Contoso - Fictional board briefing
+Document name: Contoso-Board-Confidential.docx
+Document marker: WS03-CONFIDENTIAL-311
+Programme code name: Lighthouse
+Planned decision quarter: Q4 (fictional)
+
+LAB AND PILOT USE ONLY. All values are fictional.
+This document exists to test that existing sensitivity labels and data loss
+prevention policies continue to apply when an agent uses it as knowledge.
+Do not send it to external recipients or destinations.
